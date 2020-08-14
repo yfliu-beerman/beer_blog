@@ -1,2 +1,2 @@
-# beer_blog
-## test
+# welcome to beer_blog
+
