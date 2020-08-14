@@ -1,2 +1,5 @@
-# welcome to beer_blog
+# 欢迎来到 beer——blog
 
+## 	博客目的
+
+​			
